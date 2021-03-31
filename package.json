@@ -22,7 +22,7 @@
   "dependencies": {
     "atom-space-pen-views": "^2.0.5",
     "nrepl.js": "0.0.1",
-    "underscore": "1.5.x"
+    "underscore": "1.12.1"
   },
   "devDependencies": {
     "temp": "*",
